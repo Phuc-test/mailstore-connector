@@ -1,5 +1,7 @@
 # Mailstore Connector
 
+*Note that this Market Extension is marked for deprecation. We recommend using the successor instead. **No new features** will be added to this extension; **only bug and security fixes** will be provided.*
+
 Unlock the potential of Axon Ivy's Mailstore connector to streamline your process automation endeavors, simplifying email management within your business processes. This versatile connector:
 
 - Seamlessly integrates with both IMAP and POP3 mail stores.
